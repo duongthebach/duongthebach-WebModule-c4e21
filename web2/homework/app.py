@@ -12,7 +12,7 @@ def register():
         # 1. Get form & extract data
         form = request.form
         f = form["fullname"]
-        e = form["emalil"]
+        e = form["email"]
         u = form["username"]
         p = form["password"]
     

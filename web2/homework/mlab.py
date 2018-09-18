@@ -5,7 +5,7 @@ import mongoengine
 host = "ds161092.mlab.com"
 port = 61092
 db_name = "register"
-user_name = "thebach"
+user_name = "register"
 password = "thebach1997"
 
 def connect():
